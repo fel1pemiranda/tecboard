@@ -27,12 +27,12 @@
  }  
    /* Estilo Desktop */
  body {
-    background-color:#FFFFFF;
-    color: black;
+    background-color:#0E1014;
+    color: #FFFFFF;
  }
  header img {
    display: block;
-   margin: 75px 360px 0 360px;
+   margin: 75px 360px 75px 360px;
  }
  h1 {
     font-size: 80px;
